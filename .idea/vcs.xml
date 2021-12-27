@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/JS/prodaction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java/JavaLabs/JavaLabs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python/Django/DjangoProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python/Django/DjangoRest/dj_store" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python/Django/DjangoRest/dj_store/ImportHelper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python/Django/StoreProject/DjangoStore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python/Django/StoreProject/market" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python/Django/ToDo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python/Django/Train-Booking-Website" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python/Django/booking/djangoProj" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python/Flask/ShortListBackend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python/python/oop_lections/Python-OOP" vcs="Git" />
+  </component>
+</project>

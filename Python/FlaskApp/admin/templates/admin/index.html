@@ -1,0 +1,10 @@
+{% extends 'admin/base_admin.html' %}
+ 
+{% block content %}
+{{ super() }}
+{% for user in users %}
+	{{user.name}} ---
+	{{user.email}}
+	<hr>
+{% endfor %}
+{% endblock %}

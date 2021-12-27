@@ -1,0 +1,13 @@
+{% extends "ex_main.html" %}
+
+{% block title %} About site {% endblock title %}
+
+{% block content %}
+    <h1>{{ self.title() }}</h1>
+
+    {% block list_content -%}
+        {{ super() }}
+    {% endblock list_content %}
+
+    <p> Amazing, if we complete it </p>
+{% endblock content %}

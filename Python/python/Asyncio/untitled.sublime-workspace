@@ -1,0 +1,709 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_pag",
+				"get_page_data"
+			],
+			[
+				"ge",
+				"get_pages"
+			],
+			[
+				"ra",
+				"range"
+			],
+			[
+				"s",
+				"site_name"
+			],
+			[
+				"tqdm_",
+				"tqdm_line2"
+			],
+			[
+				"t",
+				"tqdm_line"
+			],
+			[
+				"c",
+				"close"
+			],
+			[
+				"sp",
+				"spider"
+			],
+			[
+				"tas",
+				"tasks"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"as",
+				"asyncio"
+			],
+			[
+				"fu",
+				"fut"
+			],
+			[
+				"resol",
+				"resolve_future"
+			],
+			[
+				"sto",
+				"stop"
+			],
+			[
+				"se",
+				"second"
+			],
+			[
+				"seco",
+				"second"
+			],
+			[
+				"asy",
+				"async"
+			],
+			[
+				"ga",
+				"gather_worker"
+			],
+			[
+				"ta",
+				"task_list"
+			],
+			[
+				"cre",
+				"create_task"
+			],
+			[
+				"sl",
+				"sleep"
+			],
+			[
+				"wa",
+				"wait"
+			],
+			[
+				"co",
+				"coroutine"
+			],
+			[
+				"heas",
+				"heap_sort"
+			],
+			[
+				"resul",
+				"results"
+			],
+			[
+				"star",
+				"started"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"ha",
+				"handler"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"P",
+				"Product"
+			],
+			[
+				"Stude",
+				"Student"
+			],
+			[
+				"Fou",
+				"FileNotFoundError"
+			],
+			[
+				"sw",
+				"swap_array"
+			],
+			[
+				"__c",
+				"__cols"
+			],
+			[
+				"__r",
+				"__rows"
+			],
+			[
+				"fill",
+				"fill_array"
+			],
+			[
+				"r",
+				"rows"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"e",
+				"end"
+			],
+			[
+				"get_",
+				"get_data"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"isi",
+				"isinstance"
+			],
+			[
+				"__",
+				"__first_name"
+			],
+			[
+				"first_",
+				"first_name"
+			],
+			[
+				"g",
+				"getData"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"reco",
+				"record_book_number"
+			],
+			[
+				"stude",
+				"Student"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"men",
+				"Django/menu/assets/menu/css/style.css"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"pro",
+				"product_code"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"prin",
+				"print_tree"
+			],
+			[
+				"lis",
+				"lister"
+			],
+			[
+				"get_a",
+				"get_average_of_each_student"
+			],
+			[
+				"__s",
+				"__students"
+			],
+			[
+				"Gr",
+				"Group"
+			],
+			[
+				"count",
+				"count_characters"
+			],
+			[
+				"coun",
+				"count_sentence"
+			],
+			[
+				"__f",
+				"__file_name"
+			],
+			[
+				"fin",
+				"find_position"
+			],
+			[
+				"w",
+				"word"
+			],
+			[
+				"__coun",
+				"__count_word"
+			],
+			[
+				"Fi",
+				"FileManager"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"__w",
+				"__words"
+			],
+			[
+				"__fi",
+				"__file"
+			],
+			[
+				"File",
+				"FileManager"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"_",
+				"_patronymic"
+			],
+			[
+				"_d",
+				"_dimensions"
+			],
+			[
+				"_p",
+				"_price"
+			],
+			[
+				"__d",
+				"__dict__"
+			],
+			[
+				"dict",
+				"__dict__"
+			],
+			[
+				"lent",
+				"length"
+			],
+			[
+				"pritn",
+				"print"
+			],
+			[
+				"pr",
+				"print_element_division"
+			],
+			[
+				"de",
+				"denominator"
+			],
+			[
+				"p",
+				"print_result_division"
+			],
+			[
+				"Ra",
+				"Rational"
+			],
+			[
+				"N",
+				"None"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fi",
+				"find_element_by_name"
+			],
+			[
+				"car",
+				"card"
+			],
+			[
+				"u",
+				"up_speed"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Debugger: Install adapter",
+				"Debugger: Install Adapters"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"de",
+				"Debugger: Open"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/yaroslav/Programming/Python/python/Asyncio/async_await_spiders.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/async_spiders.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/yield.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/async_await.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/second.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/event_loop.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/executor.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/sync_asinc.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/soprogram.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/first.py",
+		"/home/yaroslav/Programming/Python/python/Scripts/112.py",
+		"/home/yaroslav/.config/sublime-text/Packages/AutoPEP8/Default.sublime-keymap",
+		"/home/yaroslav/.config/sublime-text/Packages/User/AutoPep8.sublime-settings",
+		"/home/yaroslav/Programming/Python/python/Scripts/script.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/untitled.sublime-project",
+		"/home/yaroslav/Programming/Python/python/Fluent_Python/so_programs/generator.py",
+		"/home/yaroslav/Programming/Python/python/oop_lections/Lab_2/Lab2_1.py",
+		"/home/yaroslav/Programming/Python/python/AiCD/lab3.py",
+		"/home/yaroslav/Programming/Python/python/Tkinter/menu/Notepad.py",
+		"/home/yaroslav/Programming/Python/python/oop_lections/Lab_2/Lab2_4.py",
+		"/home/yaroslav/Programming/Python/python/oop_lections/Lab_2/Lab2_3.py",
+		"/home/yaroslav/Programming/Python/python/oop_lections/Lab_2/Lab2_2.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/start2.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/start1.py",
+		"/home/yaroslav/Programming/Python/Django/menu/core/middleware.py",
+		"/home/yaroslav/Programming/Python/Django/menu/menu/settings.py",
+		"/home/yaroslav/Programming/Python/python/test.py",
+		"/home/yaroslav/1.py",
+		"/home/yaroslav/Programming/SQL/northwind.sql",
+		"/home/yaroslav/Programming/Python/Django/menu/menu/urls.py",
+		"/home/yaroslav/Programming/Python/Django/menu/icon/views.py",
+		"/home/yaroslav/Desktop/IMPORTANT/personal_token.txt",
+		"/home/yaroslav/Programming/Python/python/oop_lections/Lab_2/hello.txt",
+		"/home/yaroslav/Programming/Python/Django/menu/icon/forms.py",
+		"/home/yaroslav/Programming/Python/Django/menu/logging/log.log",
+		"/home/yaroslav/Programming/Python/Django/menu/Procfile",
+		"/home/yaroslav/Programming/Python/Django/menu/core/validators.py",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/temp_ckeditor.html",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/storage.html",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/sign_in.html",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/show_categories.html",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/send_feedback.html",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/register.html",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/read_more.html",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/profile.html",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/not_found.html",
+		"/home/yaroslav/Python/SEO/Lab1/Lab1_1.py",
+		"/home/yaroslav/Python/SEO/Lab1/Lab1_2.py",
+		"/home/yaroslav/Python/SEO/Lab1/Lab1_3.py",
+		"/home/yaroslav/Python/Django/menu/requirements.txt",
+		"/home/yaroslav/Python/Django/menu/Procfile",
+		"/usr/share/doc/python-setuptools/requirements.txt",
+		"/home/yaroslav/Python/Django/requirements.txt",
+		"/home/yaroslav/Python/Django/venv/lib/python3.9/site-packages/social/tests/requirements.txt",
+		"/home/yaroslav/Python/Django/venv/lib/python3.9/site-packages/social_core/tests/requirements.txt",
+		"/home/yaroslav/Python/Django/venv/lib/python3.9/site-packages/social/tests/requirements-python3.txt",
+		"/usr/share/ufw/check-requirements",
+		"/home/yaroslav/Python/Django/venv/lib/python3.9/site-packages/setuptools/_vendor/packaging/requirements.py",
+		"/snap/core/11606/usr/lib/python3/dist-packages/pkg_resources/_vendor/packaging/requirements.py",
+		"/snap/core/11743/usr/lib/python3/dist-packages/pkg_resources/_vendor/packaging/requirements.py",
+		"/snap/core18/2128/usr/lib/python3/dist-packages/pkg_resources/_vendor/packaging/requirements.py",
+		"/snap/core20/1081/usr/lib/python3/dist-packages/pkg_resources/_vendor/packaging/requirements.py",
+		"/snap/core20/1081/usr/lib/python3/dist-packages/setuptools/_vendor/packaging/requirements.py",
+		"/home/yaroslav/Python/Django/venv/lib/python3.9/site-packages/social/tests/requirements-pypy.txt",
+		"/home/yaroslav/Python/Django/venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/requirements.py",
+		"/home/yaroslav/Python/Django/venv/lib/python3.9/site-packages/pip/_vendor/packaging/requirements.py",
+		"/home/yaroslav/Python/Django/venv/lib/python3.9/site-packages/pip/_internal/resolution/resolvelib/requirements.py",
+		"/home/yaroslav/NEWPROJECT/venv/lib/python3.8/site-packages/social_core/tests/requirements.txt",
+		"/home/yaroslav/NEWPROJECT/venv/lib64/python3.8/site-packages/captcha/fields.py",
+		"/home/yaroslav/NEWPROJECT/venv/lib/python3.8/site-packages/captcha/fields.py",
+		"/home/yaroslav/Python/python/oop_lections/Lab_2/Lab2_1.py",
+		"/home/yaroslav/Python/python/oop_lections/Lab_2/Lab2_2.py",
+		"/home/yaroslav/Python/python/oop_lections/Lab_2/hello.txt",
+		"/home/yaroslav/Python/python/oop_lections/Lab_2/Lab2_3.py",
+		"/home/yaroslav/Python/python/oop_lections/Lab_2/Lab2_4.py",
+		"/etc/apache2/apache2.conf",
+		"/home/yaroslav/Python/Django/menu/menu/settings.py",
+		"/home/yaroslav/Python/Django/menu/templates/icon/add_page_model.html",
+		"/home/yaroslav/Python/Django/menu/menu/urls.py",
+		"/home/yaroslav/Python/Django/menu/templates/icon/400.html",
+		"/home/yaroslav/Python/Django/menu/icon/views.py",
+		"/home/yaroslav/Python/Django/menu/templates/icon/new/get_top_chart.html",
+		"/home/yaroslav/Python/Django/menu/templates/icon/new/get_most_liked.html",
+		"/home/yaroslav/Python/Django/menu/icon/templatetags/menu_tags.py",
+		"/home/yaroslav/Python/Django/menu/templates/icon/base.html",
+		"/home/yaroslav/Python/Django/menu/templates/icon/403.html",
+		"/home/yaroslav/Python/python/test.py",
+		"/home/yaroslav/Python/python/oop_lections/Lab_2/product_list.json",
+		"/home/yaroslav/Python/python/OOP/__slots__.py",
+		"/home/yaroslav/Desktop/1.py",
+		"/home/yaroslav/Python/python/pract1_2.py",
+		"/home/yaroslav/Python/python/oop_lections/Pract1/pract1_1.py",
+		"/home/yaroslav/Python/python/Selenium__/page_navigation.py",
+		"/home/yaroslav/Python/python/pract1_1.py",
+		"/home/yaroslav/Python/python/Selenium__/another_one.py",
+		"/home/yaroslav/Python/python/Selenium__/first_try.py",
+		"/home/yaroslav/Python/python/Selenium__/my_site.py",
+		"/home/yaroslav/.config/sublime-text/Packages/AutoPEP8/AutoPep8.sublime-settings",
+		"/home/yaroslav/Python/python/Selenium__/new_project/manage.py",
+		"/home/yaroslav/Desktop/untitled.py",
+		"/home/yaroslav/Desktop/test (copy).py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nji",
+			"np"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 61.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 262.0
+	},
+	"output.Debugger: Console":
+	{
+		"height": 0.0
+	},
+	"output.Debugger: Protocol":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 192.0
+	},
+	"output.autopep8":
+	{
+		"height": 174.0
+	},
+	"output.exec":
+	{
+		"height": 236.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"soprog",
+				"Python/python/Fluent_Python/so_programs/generator.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

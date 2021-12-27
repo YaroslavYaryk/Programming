@@ -1,0 +1,1623 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"so",
+				"socketserver"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"send",
+				"sendto"
+			],
+			[
+				"se",
+				"setblocking"
+			],
+			[
+				"SOCK",
+				"SOCK_DGRAM"
+			],
+			[
+				"sock",
+				"socket"
+			],
+			[
+				"set",
+				"setblocking"
+			],
+			[
+				"Ke",
+				"KeyboardInterrupt"
+			],
+			[
+				"c",
+				"close"
+			],
+			[
+				"s",
+				"sock"
+			],
+			[
+				"K",
+				"KeyboardInterrupt"
+			],
+			[
+				"acce",
+				"accept"
+			],
+			[
+				"lis",
+				"listen"
+			],
+			[
+				"SO",
+				"SOCK_STREAM"
+			],
+			[
+				"Key",
+				"KeyboardInterrupt"
+			],
+			[
+				"soc",
+				"sock"
+			],
+			[
+				"dat",
+				"data"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"get_pag",
+				"get_page_data"
+			],
+			[
+				"ge",
+				"get_pages"
+			],
+			[
+				"ra",
+				"range"
+			],
+			[
+				"tqdm_",
+				"tqdm_line2"
+			],
+			[
+				"t",
+				"tqdm_line"
+			],
+			[
+				"sp",
+				"spider"
+			],
+			[
+				"tas",
+				"tasks"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"as",
+				"asyncio"
+			],
+			[
+				"fu",
+				"fut"
+			],
+			[
+				"resol",
+				"resolve_future"
+			],
+			[
+				"sto",
+				"stop"
+			],
+			[
+				"seco",
+				"second"
+			],
+			[
+				"asy",
+				"async"
+			],
+			[
+				"ga",
+				"gather_worker"
+			],
+			[
+				"ta",
+				"task_list"
+			],
+			[
+				"cre",
+				"create_task"
+			],
+			[
+				"sl",
+				"sleep"
+			],
+			[
+				"wa",
+				"wait"
+			],
+			[
+				"co",
+				"coroutine"
+			],
+			[
+				"heas",
+				"heap_sort"
+			],
+			[
+				"resul",
+				"results"
+			],
+			[
+				"star",
+				"started"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"ha",
+				"handler"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"P",
+				"Product"
+			],
+			[
+				"Stude",
+				"Student"
+			],
+			[
+				"Fou",
+				"FileNotFoundError"
+			],
+			[
+				"sw",
+				"swap_array"
+			],
+			[
+				"__c",
+				"__cols"
+			],
+			[
+				"__r",
+				"__rows"
+			],
+			[
+				"fill",
+				"fill_array"
+			],
+			[
+				"r",
+				"rows"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"e",
+				"end"
+			],
+			[
+				"get_",
+				"get_data"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"isi",
+				"isinstance"
+			],
+			[
+				"first_",
+				"first_name"
+			],
+			[
+				"g",
+				"getData"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"reco",
+				"record_book_number"
+			],
+			[
+				"stude",
+				"Student"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"men",
+				"Django/menu/assets/menu/css/style.css"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"pro",
+				"product_code"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"prin",
+				"print_tree"
+			],
+			[
+				"get_a",
+				"get_average_of_each_student"
+			],
+			[
+				"__s",
+				"__students"
+			],
+			[
+				"Gr",
+				"Group"
+			],
+			[
+				"count",
+				"count_characters"
+			],
+			[
+				"coun",
+				"count_sentence"
+			],
+			[
+				"__f",
+				"__file_name"
+			],
+			[
+				"fin",
+				"find_position"
+			],
+			[
+				"w",
+				"word"
+			],
+			[
+				"__coun",
+				"__count_word"
+			],
+			[
+				"Fi",
+				"FileManager"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"__w",
+				"__words"
+			],
+			[
+				"__fi",
+				"__file"
+			],
+			[
+				"File",
+				"FileManager"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"_",
+				"_patronymic"
+			],
+			[
+				"_d",
+				"_dimensions"
+			],
+			[
+				"_p",
+				"_price"
+			],
+			[
+				"__d",
+				"__dict__"
+			],
+			[
+				"dict",
+				"__dict__"
+			],
+			[
+				"lent",
+				"length"
+			],
+			[
+				"pritn",
+				"print"
+			],
+			[
+				"pr",
+				"print_element_division"
+			],
+			[
+				"de",
+				"denominator"
+			],
+			[
+				"p",
+				"print_result_division"
+			],
+			[
+				"Ra",
+				"Rational"
+			],
+			[
+				"N",
+				"None"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fi",
+				"find_element_by_name"
+			],
+			[
+				"car",
+				"card"
+			],
+			[
+				"u",
+				"up_speed"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.py",
+			"settings":
+			{
+				"buffer_size": 369,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					2,
+					2,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAcw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAdAEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "]"
+					},
+					"AgAAAGYAAAAAAAAAZwAAAAAAAAAAAAAAZwAAAAAAAABnAAAAAAAAAAgAAAAsIHNvY2tldA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABmAAAAAAAAAG4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGYAAAAAAAAAZgAAAAAAAAABAAAAXQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABnAAAAAAAAAGcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": ".rc"
+					},
+					"AwAAAHUAAAAAAAAAdgAAAAAAAAAAAAAAdgAAAAAAAAB3AAAAAAAAAAAAAAB3AAAAAAAAAHgAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB1AAAAAAAAAHUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "ve"
+					},
+					"AgAAAHgAAAAAAAAAeQAAAAAAAAAAAAAAeQAAAAAAAAB6AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB4AAAAAAAAAHgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					13,
+					3,
+					"left_delete",
+					null,
+					"AwAAAHkAAAAAAAAAeQAAAAAAAAABAAAAZXgAAAAAAAAAeAAAAAAAAAABAAAAdncAAAAAAAAAdwAAAAAAAAABAAAAYw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB6AAAAAAAAAHoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "ec"
+					},
+					"AgAAAHcAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB5AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB3AAAAAAAAAHcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"insert_completion",
+					{
+						"completion": "recv",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "recv"
+					},
+					"AgAAAHYAAAAAAAAAdgAAAAAAAAADAAAAcmVjdgAAAAAAAAB6AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB5AAAAAAAAAHkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					16,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAHoAAAAAAAAAfAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB6AAAAAAAAAHoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "1024"
+					},
+					"BAAAAHsAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAAB9AAAAAAAAAAAAAAB9AAAAAAAAAH4AAAAAAAAAAAAAAH4AAAAAAAAAfwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB7AAAAAAAAAHsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": ".st"
+					},
+					"AwAAAIAAAAAAAAAAgQAAAAAAAAAAAAAAgQAAAAAAAACCAAAAAAAAAAAAAACCAAAAAAAAAIMAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"insert_completion",
+					{
+						"completion": "strip",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "strip"
+					},
+					"AgAAAIEAAAAAAAAAgQAAAAAAAAACAAAAc3SBAAAAAAAAAIYAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACDAAAAAAAAAIMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					21,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAIYAAAAAAAAAiAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACGAAAAAAAAAIYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					24,
+					1,
+					"cut",
+					null,
+					"AQAAANsAAAAAAAAA2wAAAAAAAAArAAAACQlzb2NrZXQuc2VuZHRvKGRhdGEsIHNlbGYuY2xpZW50X2FkZHJlc3MpCg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAFAQAAAAAAAAUBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					25,
+					1,
+					"reindent",
+					null,
+					"AQAAANsAAAAAAAAA3QAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADbAAAAAAAAANsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAN0AAAAAAAAA3gAAAAAAAAAAAAAA3gAAAAAAAADgAAAAAAAAAAAAAADbAAAAAAAAANsAAAAAAAAAAgAAAAkJ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADdAAAAAAAAAN0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					28,
+					1,
+					"reindent",
+					null,
+					"AQAAANsAAAAAAAAA3QAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADbAAAAAAAAANsAAAAAAAAAAAAAAAAAWkA"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "self.re"
+					},
+					"CAAAAN0AAAAAAAAA3gAAAAAAAAAAAAAA3wAAAAAAAADfAAAAAAAAAAIAAAAJCd4AAAAAAAAA3wAAAAAAAAAAAAAA3wAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAOEAAAAAAAAAAAAAAOEAAAAAAAAA4gAAAAAAAAAAAAAA4gAAAAAAAADjAAAAAAAAAAAAAADjAAAAAAAAAOQAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADdAAAAAAAAAN0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					30,
+					1,
+					"insert_completion",
+					{
+						"completion": "recv",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "recv"
+					},
+					"AgAAAOIAAAAAAAAA4gAAAAAAAAACAAAAcmXiAAAAAAAAAOYAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADkAAAAAAAAAOQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					31,
+					2,
+					"left_delete",
+					null,
+					"AgAAAOUAAAAAAAAA5QAAAAAAAAABAAAAduQAAAAAAAAA5AAAAAAAAAABAAAAYw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADmAAAAAAAAAOYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": "q"
+					},
+					"AQAAAOQAAAAAAAAA5QAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADkAAAAAAAAAOQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					33,
+					1,
+					"insert_completion",
+					{
+						"completion": "request",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "request"
+					},
+					"AgAAAOIAAAAAAAAA4gAAAAAAAAADAAAAcmVx4gAAAAAAAADpAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADlAAAAAAAAAOUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": ".semf"
+					},
+					"BQAAAOkAAAAAAAAA6gAAAAAAAAAAAAAA6gAAAAAAAADrAAAAAAAAAAAAAADrAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA7QAAAAAAAAAAAAAA7QAAAAAAAADuAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADpAAAAAAAAAOkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					35,
+					1,
+					"left_delete",
+					null,
+					"AQAAAO0AAAAAAAAA7QAAAAAAAAABAAAAZg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADuAAAAAAAAAO4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "d"
+					},
+					"AQAAAO0AAAAAAAAA7gAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADtAAAAAAAAAO0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					37,
+					2,
+					"left_delete",
+					null,
+					"AgAAAO0AAAAAAAAA7QAAAAAAAAABAAAAZOwAAAAAAAAA7AAAAAAAAAABAAAAbQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADuAAAAAAAAAO4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "nda;;"
+					},
+					"BQAAAOwAAAAAAAAA7QAAAAAAAAAAAAAA7QAAAAAAAADuAAAAAAAAAAAAAADuAAAAAAAAAO8AAAAAAAAAAAAAAO8AAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAADxAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADsAAAAAAAAAOwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					39,
+					2,
+					"left_delete",
+					null,
+					"AgAAAPAAAAAAAAAA8AAAAAAAAAABAAAAO+8AAAAAAAAA7wAAAAAAAAABAAAAOw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADxAAAAAAAAAPEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "ll)"
+					},
+					"AwAAAO8AAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAADxAAAAAAAAAAAAAADxAAAAAAAAAPIAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADvAAAAAAAAAO8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					41,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPEAAAAAAAAA8QAAAAAAAAABAAAAKQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADyAAAAAAAAAPIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					42,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAPEAAAAAAAAA8wAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADxAAAAAAAAAPEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "da"
+					},
+					"AgAAAPIAAAAAAAAA8wAAAAAAAAAAAAAA8wAAAAAAAAD0AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADyAAAAAAAAAPIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					44,
+					1,
+					"insert_completion",
+					{
+						"completion": "data",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "data"
+					},
+					"AgAAAPIAAAAAAAAA8gAAAAAAAAACAAAAZGHyAAAAAAAAAPYAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD0AAAAAAAAAPQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "TCP"
+					},
+					"BAAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAhAAAAAAAAAAMAAABVRFAhAAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAjAAAAAAAAACAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "TSP"
+					},
+					"BAAAACgBAAAAAAAAKQEAAAAAAAAAAAAAKQEAAAAAAAApAQAAAAAAAAkAAABVRFBTZXJ2ZXIpAQAAAAAAACoBAAAAAAAAAAAAACoBAAAAAAAAKwEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAoAQAAAAAAADEBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "Server"
+					},
+					"BgAAACsBAAAAAAAALAEAAAAAAAAAAAAALAEAAAAAAAAtAQAAAAAAAAAAAAAtAQAAAAAAAC4BAAAAAAAAAAAAAC4BAAAAAAAALwEAAAAAAAAAAAAALwEAAAAAAAAwAQAAAAAAAAAAAAAwAQAAAAAAADEBAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAArAQAAAAAAACsBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					60,
+					1,
+					"paste",
+					null,
+					"AgAAAD8BAAAAAAAATAEAAAAAAAAAAAAATAEAAAAAAABMAQAAAAAAAA0AAABFY2hvVURQU2VydmVy",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/AQAAAAAAAEwBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					69,
+					1,
+					"left_delete",
+					null,
+					"AQAAACkBAAAAAAAAKQEAAAAAAAABAAAAUw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAqAQAAAAAAACoBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "C"
+					},
+					"AQAAACkBAAAAAAAAKgEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAApAQAAAAAAACkBAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "client.py",
+			"settings":
+			{
+				"buffer_size": 190,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					2,
+					5,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAiQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "8000"
+					},
+					"BQAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAABlAAAAAAAAAAQAAAA3Nzc3ZQAAAAAAAABmAAAAAAAAAAAAAABmAAAAAAAAAGcAAAAAAAAAAAAAAGcAAAAAAAAAaAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABkAAAAAAAAAGgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "\nre"
+					},
+					"AwAAAHwAAAAAAAAAfQAAAAAAAAAAAAAAfQAAAAAAAAB+AAAAAAAAAAAAAAB+AAAAAAAAAH8AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB8AAAAAAAAAHwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "sult"
+					},
+					"BAAAAH8AAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACBAAAAAAAAAAAAAACBAAAAAAAAAIIAAAAAAAAAAAAAAIIAAAAAAAAAgwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB/AAAAAAAAAH8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACDAAAAAAAAAIMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIUAAAAAAAAAhgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACFAAAAAAAAAIUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					24,
+					1,
+					"insert_completion",
+					{
+						"completion": "sock",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": true,
+						"trigger": "sock"
+					},
+					"AQAAAIYAAAAAAAAAigAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACGAAAAAAAAAIYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAAIoAAAAAAAAAiwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACKAAAAAAAAAIoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					26,
+					1,
+					"insert_completion",
+					{
+						"completion": "recv",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": true,
+						"trigger": "recv"
+					},
+					"AQAAAIsAAAAAAAAAjwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACLAAAAAAAAAIsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					27,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAI8AAAAAAAAAkQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACPAAAAAAAAAI8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "64"
+					},
+					"AgAAAJAAAAAAAAAAkQAAAAAAAAAAAAAAkQAAAAAAAACSAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": "\npri"
+					},
+					"BAAAAJMAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACVAAAAAAAAAAAAAACVAAAAAAAAAJYAAAAAAAAAAAAAAJYAAAAAAAAAlwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACTAAAAAAAAAJMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					31,
+					1,
+					"insert_completion",
+					{
+						"completion": "print",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "print"
+					},
+					"AgAAAJQAAAAAAAAAlAAAAAAAAAADAAAAcHJplAAAAAAAAACZAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACXAAAAAAAAAJcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAJkAAAAAAAAAmwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACZAAAAAAAAAJkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					33,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAJoAAAAAAAAAnAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACaAAAAAAAAAJoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "f"
+					},
+					"AQAAAJoAAAAAAAAAmwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACaAAAAAAAAAJoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "Respons"
+					},
+					"BwAAAJwAAAAAAAAAnQAAAAAAAAAAAAAAnQAAAAAAAACeAAAAAAAAAAAAAACeAAAAAAAAAJ8AAAAAAAAAAAAAAJ8AAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAAChAAAAAAAAAAAAAAChAAAAAAAAAKIAAAAAAAAAAAAAAKIAAAAAAAAAowAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACcAAAAAAAAAJwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "e"
+					},
+					"AQAAAKMAAAAAAAAApAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACjAAAAAAAAAKMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": " -"
+					},
+					"AgAAAKQAAAAAAAAApQAAAAAAAAAAAAAApQAAAAAAAACmAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACkAAAAAAAAAKQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": " {}"
+					},
+					"AwAAAKYAAAAAAAAApwAAAAAAAAAAAAAApwAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKkAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACmAAAAAAAAAKYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "res"
+					},
+					"AwAAAKgAAAAAAAAAqQAAAAAAAAAAAAAAqQAAAAAAAACqAAAAAAAAAAAAAACqAAAAAAAAAKsAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACoAAAAAAAAAKgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					43,
+					1,
+					"insert_completion",
+					{
+						"completion": "result",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "result"
+					},
+					"AgAAAKgAAAAAAAAAqAAAAAAAAAADAAAAcmVzqAAAAAAAAACuAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACrAAAAAAAAAKsAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/home/yaroslav/Programming/Python/python/Socket/socket_server/udp/client.py",
+			"settings":
+			{
+				"buffer_size": 120,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAwAAAAJCQlzbGVlcCgxKQo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB4AAAAAAAAAAwAAAAJCQlzbGVlcCgxKQo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAB4AAAAaW1wb3J0IHNvY2tldAoKc29jayA9IHNvY2tldC5zb2NrZXQoc29ja2V0LkFGX0lORVQsIHNvY2tldC5TT0NLX0RHUkFNKQpzb2NrLnNlbmR0byhiIk5ldyBtZXNzYWdlIiwgKCcxMjcuMC4wLjEnLCA4MDAwKSkK",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAeAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Debugger: Install adapter",
+				"Debugger: Install Adapters"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"de",
+				"Debugger: Open"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 264.0,
+		"history":
+		[
+			"c",
+			"c = a + b",
+			"b = 3",
+			"a = 2",
+			"version",
+			"pip",
+			"import request",
+			"import numpy",
+			"2+2",
+			"python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/yaroslav/Programming/Python/python/Socket/socket_server/tcp/untitled.sublime-project",
+		"/home/yaroslav/Programming/Python/python/Socket/socket_server/udp/server.py",
+		"/home/yaroslav/Programming/Python/python/Socket/TSP_protocol/socket_with.py",
+		"/home/yaroslav/Programming/Python/python/Socket/TSP_protocol/tsp_client.py",
+		"/home/yaroslav/Programming/Python/python/Socket/TSP_protocol/set_timeout.py",
+		"/home/yaroslav/Programming/Python/python/Socket/UPD_protocol/infinity_server_udp.py",
+		"/home/yaroslav/Programming/Python/python/Socket/TSP_protocol/no_blokking_erver.py",
+		"/home/yaroslav/Programming/Python/python/Socket/TSP_protocol/tsp_server.py",
+		"/home/yaroslav/Programming/Python/python/Socket/UPD_protocol/client_udp.py",
+		"/home/yaroslav/Programming/Python/python/Socket/UPD_protocol/server_udp.py",
+		"/home/yaroslav/Programming/Python/python/Socket/UPD_protocol/udp_unix_server.py",
+		"/home/yaroslav/Programming/Python/python/Socket/UPD_protocol/client_udp_unix.py",
+		"/home/yaroslav/Programming/Python/python/Socket/server_udp.py",
+		"/home/yaroslav/Programming/Python/python/Socket/infinity_server_udp.py",
+		"/home/yaroslav/Desktop/Weather/weather_app_django/the_weather/the_weather/settings.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/async_await_spiders.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/async_spiders.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/yield.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/async_await.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/second.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/event_loop.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/executor.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/sync_asinc.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/soprogram.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/first.py",
+		"/home/yaroslav/Programming/Python/python/Scripts/112.py",
+		"/home/yaroslav/.config/sublime-text/Packages/AutoPEP8/Default.sublime-keymap",
+		"/home/yaroslav/.config/sublime-text/Packages/User/AutoPep8.sublime-settings",
+		"/home/yaroslav/Programming/Python/python/Scripts/script.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/untitled.sublime-project",
+		"/home/yaroslav/Programming/Python/python/Fluent_Python/so_programs/generator.py",
+		"/home/yaroslav/Programming/Python/python/oop_lections/Lab_2/Lab2_1.py",
+		"/home/yaroslav/Programming/Python/python/AiCD/lab3.py",
+		"/home/yaroslav/Programming/Python/python/Tkinter/menu/Notepad.py",
+		"/home/yaroslav/Programming/Python/python/oop_lections/Lab_2/Lab2_4.py",
+		"/home/yaroslav/Programming/Python/python/oop_lections/Lab_2/Lab2_3.py",
+		"/home/yaroslav/Programming/Python/python/oop_lections/Lab_2/Lab2_2.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/start2.py",
+		"/home/yaroslav/Programming/Python/python/Asyncio/start1.py",
+		"/home/yaroslav/Programming/Python/Django/menu/core/middleware.py",
+		"/home/yaroslav/Programming/Python/Django/menu/menu/settings.py",
+		"/home/yaroslav/Programming/Python/python/test.py",
+		"/home/yaroslav/1.py",
+		"/home/yaroslav/Programming/SQL/northwind.sql",
+		"/home/yaroslav/Programming/Python/Django/menu/menu/urls.py",
+		"/home/yaroslav/Programming/Python/Django/menu/icon/views.py",
+		"/home/yaroslav/Desktop/IMPORTANT/personal_token.txt",
+		"/home/yaroslav/Programming/Python/python/oop_lections/Lab_2/hello.txt",
+		"/home/yaroslav/Programming/Python/Django/menu/icon/forms.py",
+		"/home/yaroslav/Programming/Python/Django/menu/logging/log.log",
+		"/home/yaroslav/Programming/Python/Django/menu/Procfile",
+		"/home/yaroslav/Programming/Python/Django/menu/core/validators.py",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/temp_ckeditor.html",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/storage.html",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/sign_in.html",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/show_categories.html",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/send_feedback.html",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/register.html",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/read_more.html",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/profile.html",
+		"/home/yaroslav/Programming/Python/Django/menu/templates/icon/not_found.html",
+		"/home/yaroslav/Python/SEO/Lab1/Lab1_1.py",
+		"/home/yaroslav/Python/SEO/Lab1/Lab1_2.py",
+		"/home/yaroslav/Python/SEO/Lab1/Lab1_3.py",
+		"/home/yaroslav/Python/Django/menu/requirements.txt",
+		"/home/yaroslav/Python/Django/menu/Procfile",
+		"/usr/share/doc/python-setuptools/requirements.txt",
+		"/home/yaroslav/Python/Django/requirements.txt",
+		"/home/yaroslav/Python/Django/venv/lib/python3.9/site-packages/social/tests/requirements.txt",
+		"/home/yaroslav/Python/Django/venv/lib/python3.9/site-packages/social_core/tests/requirements.txt",
+		"/home/yaroslav/Python/Django/venv/lib/python3.9/site-packages/social/tests/requirements-python3.txt",
+		"/usr/share/ufw/check-requirements",
+		"/home/yaroslav/Python/Django/venv/lib/python3.9/site-packages/setuptools/_vendor/packaging/requirements.py",
+		"/snap/core/11606/usr/lib/python3/dist-packages/pkg_resources/_vendor/packaging/requirements.py",
+		"/snap/core/11743/usr/lib/python3/dist-packages/pkg_resources/_vendor/packaging/requirements.py",
+		"/snap/core18/2128/usr/lib/python3/dist-packages/pkg_resources/_vendor/packaging/requirements.py",
+		"/snap/core20/1081/usr/lib/python3/dist-packages/pkg_resources/_vendor/packaging/requirements.py",
+		"/snap/core20/1081/usr/lib/python3/dist-packages/setuptools/_vendor/packaging/requirements.py",
+		"/home/yaroslav/Python/Django/venv/lib/python3.9/site-packages/social/tests/requirements-pypy.txt",
+		"/home/yaroslav/Python/Django/venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/requirements.py",
+		"/home/yaroslav/Python/Django/venv/lib/python3.9/site-packages/pip/_vendor/packaging/requirements.py",
+		"/home/yaroslav/Python/Django/venv/lib/python3.9/site-packages/pip/_internal/resolution/resolvelib/requirements.py",
+		"/home/yaroslav/NEWPROJECT/venv/lib/python3.8/site-packages/social_core/tests/requirements.txt",
+		"/home/yaroslav/NEWPROJECT/venv/lib64/python3.8/site-packages/captcha/fields.py",
+		"/home/yaroslav/NEWPROJECT/venv/lib/python3.8/site-packages/captcha/fields.py",
+		"/home/yaroslav/Python/python/oop_lections/Lab_2/Lab2_1.py",
+		"/home/yaroslav/Python/python/oop_lections/Lab_2/Lab2_2.py",
+		"/home/yaroslav/Python/python/oop_lections/Lab_2/hello.txt",
+		"/home/yaroslav/Python/python/oop_lections/Lab_2/Lab2_3.py",
+		"/home/yaroslav/Python/python/oop_lections/Lab_2/Lab2_4.py",
+		"/etc/apache2/apache2.conf",
+		"/home/yaroslav/Python/Django/menu/menu/settings.py",
+		"/home/yaroslav/Python/Django/menu/templates/icon/add_page_model.html",
+		"/home/yaroslav/Python/Django/menu/menu/urls.py",
+		"/home/yaroslav/Python/Django/menu/templates/icon/400.html",
+		"/home/yaroslav/Python/Django/menu/icon/views.py",
+		"/home/yaroslav/Python/Django/menu/templates/icon/new/get_top_chart.html",
+		"/home/yaroslav/Python/Django/menu/templates/icon/new/get_most_liked.html",
+		"/home/yaroslav/Python/Django/menu/icon/templatetags/menu_tags.py",
+		"/home/yaroslav/Python/Django/menu/templates/icon/base.html",
+		"/home/yaroslav/Python/Django/menu/templates/icon/403.html",
+		"/home/yaroslav/Python/python/test.py",
+		"/home/yaroslav/Python/python/oop_lections/Lab_2/product_list.json",
+		"/home/yaroslav/Python/python/OOP/__slots__.py",
+		"/home/yaroslav/Desktop/1.py",
+		"/home/yaroslav/Python/python/pract1_2.py",
+		"/home/yaroslav/Python/python/oop_lections/Pract1/pract1_1.py",
+		"/home/yaroslav/Python/python/Selenium__/page_navigation.py",
+		"/home/yaroslav/Python/python/pract1_1.py",
+		"/home/yaroslav/Python/python/Selenium__/another_one.py",
+		"/home/yaroslav/Python/python/Selenium__/first_try.py",
+		"/home/yaroslav/Python/python/Selenium__/my_site.py",
+		"/home/yaroslav/.config/sublime-text/Packages/AutoPEP8/AutoPep8.sublime-settings",
+		"/home/yaroslav/Python/python/Selenium__/new_project/manage.py",
+		"/home/yaroslav/Desktop/untitled.py",
+		"/home/yaroslav/Desktop/test (copy).py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								174
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/yaroslav/Programming/Python/python/Socket/socket_server/udp/client.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 61.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.968905472637,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 262.0
+	},
+	"output.Debugger: Console":
+	{
+		"height": 0.0
+	},
+	"output.Debugger: Protocol":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 192.0
+	},
+	"output.autopep8":
+	{
+		"height": 174.0
+	},
+	"output.exec":
+	{
+		"height": 236.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"soprog",
+				"Python/python/Fluent_Python/so_programs/generator.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+	<h2><a href="{{ url_for('admin.index') }}">admin</a></h2>
+	<h1>hello worlds</h1>
+	<a href="{{ url_for( 'about' ) }}">ABOUT</a>
+	<hr>
+	<a href="{{ url_for( 'get_profile', username='yaroslav'  ) }}">USER</a>
+	<hr>
+	<a href="{{ url_for( 'get_feedback'  ) }}">FEEDBACK</a>
+	<hr>
+	<a href="{{ url_for( 'register'  ) }}">registration</a> ---
+	<a href="{{ url_for( 'login'  ) }}">Login</a>
+	<hr>
+	{{lister}}
+	<hr>
+	{% for i in books %}
+		{{i.title}}
+		<br>
+	{% endfor %}
+	<hr>
+
+	Visitors - {{visits}}
+
+	{% block content %}
+
+	{% endblock %}
+</body>
+</html>

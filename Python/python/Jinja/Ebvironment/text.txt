@@ -1,0 +1,16 @@
+{%- macro list_of_books(books) -%}
+<ul>
+{% for b in books -%}
+    <li> {{b.name}} {{caller(b)}}
+    
+{% endfor %}
+</ul>
+
+{%- endmacro -%}
+
+{% call(user) list_of_books(users) %}
+    <ul>
+        <li> age - {{user.age}}
+        
+    </ul>    
+{%- endcall -%}

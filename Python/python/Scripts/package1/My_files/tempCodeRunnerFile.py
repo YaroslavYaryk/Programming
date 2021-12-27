@@ -1,0 +1,5 @@
+ print(square)
+#  circle1 = Circle(5)
+#  print(circle1)
+#  circle2 = Circle.get_smth(square)       
+#  print(circle2)

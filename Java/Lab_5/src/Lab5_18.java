@@ -1,0 +1,167 @@
+// Создать класс для единицы товара на складе (поля: товар, 
+// производитель, количество, дата изготовления, срок годности,  
+// поставщик, тел. поставщика, тел. производителя, цена за 1 ед.).
+
+
+/** Interface for Storage class
+ * @author Dyhanov Yaroslav
+ * @version 1.0
+ */
+interface Lab5_18_interface {
+
+    String get_goods();
+    String get_producer();
+    int get_quantity();
+    String get_date_made();
+    int get_shelf_life();
+    String get_shipment();
+    String get_shipment_number();
+    String get_producer_number();
+    double get_price_for_one_unit();
+
+}
+
+/** Class for saving Fraction
+ * @autor Dyhanov Yaroslav
+ * @version 1.0
+ */
+class Storage implements Lab5_18_interface{
+    /** property - goods */
+    String goods;
+    /** property - producer */
+    String producer;
+    /** property - quantity */
+    int quantity;
+    /** property - date_made */
+    String date_made;
+    /** property - shelf_life */
+    int shelf_life;
+    /** property - shipment */
+    String shipment;
+    /** property - shipment_number */
+    String shipment_number;
+    /** property - producer_number */
+    String producer_number;
+    /** property - price_for_one_unit */
+    double price_for_one_unit;
+
+    /** Create new Storage object with this values
+     * @param goods - goods
+     * @param producer - producer
+     * @param quantity - quantity
+     * @param date_made - date_made
+     * @param shelf_life - shelf_life
+     * @param shipment - shipment
+     * @param shipment_number - shipment_number
+     * @param producer_number - producer_number
+     * @param price_for_one_unit - price_for_one_unit
+     */
+    public Storage(String goods,
+                   String producer, int quantity,String date_made,
+                   int shelf_life, String shipment, String shipment_number,
+                   String producer_number, double price_for_one_unit){
+        this.goods = goods;
+        this.producer = producer;
+        this.quantity = quantity;
+        this.date_made = date_made;
+        this.shelf_life = shelf_life;
+        this.shipment = shipment;
+        this.shipment_number = shipment_number;
+        this.producer_number = producer_number;
+        this.price_for_one_unit = price_for_one_unit;
+    }
+
+    @Override
+    public String toString() {
+        return "Storage( " + goods + ", " + producer + ", " + quantity + " )";
+    }
+
+    /** function for getting goods name {@link Storage#goods}
+     * @return goods name
+     */
+    @Override
+    public String get_goods() {
+        return this.goods;
+    }
+
+    /** function for getting producer name {@link Storage#producer}
+     * @return producer name
+     */
+    @Override
+    public String get_producer() {
+        return this.producer;
+    }
+
+    /** function for getting quantity {@link Storage#quantity}
+     * @return quantity
+     */
+    @Override
+    public int get_quantity() {
+        return this.quantity;
+    }
+
+    /** function for getting date made {@link Storage#date_made}
+     * @return date made
+     */
+    @Override
+    public String get_date_made() {
+        return this.date_made;
+    }
+
+    /** function for getting shelf_life {@link Storage#shelf_life}
+     * @return shelf_life
+     */
+    @Override
+    public int get_shelf_life() {
+        return this.shelf_life;
+    }
+
+    /** function for getting shipment {@link Storage#shipment}
+     * @return shipment
+     */
+    @Override
+    public String get_shipment() {
+        return this.shipment;
+    }
+
+    /** function for getting shipment_number {@link Storage#shipment_number}
+     * @return shipment_number
+     */
+    @Override
+    public String get_shipment_number() {
+        return this.shipment_number;
+    }
+
+    /** function for getting producer_number {@link Storage#producer_number}
+     * @return producer_number
+     */
+    @Override
+    public String get_producer_number() {
+        return this.producer_number;
+    }
+
+    /** function for getting price_for_one_unit {@link Storage#price_for_one_unit}
+     * @return price_for_one_unit
+     */
+    @Override
+    public double get_price_for_one_unit() {
+        return this.price_for_one_unit;
+    }
+}
+
+
+public class Lab5_18 {
+    public static void main(String[] args) {
+        Lab5_18_interface element = new Storage(
+                "Phone", "Xiaomi", 1, "31/03/2021", 3, "AimpCorporation",
+                "0683265896", "0965412365", 195);
+
+        System.out.println("Goods: " + element.get_goods());
+        System.out.println("Producer: " + element.get_producer());
+        System.out.println("Quantity: " + element.get_quantity());
+        System.out.println("Date made: " + element.get_date_made());
+        System.out.println("Shelf life: " + element.get_shelf_life());
+
+
+    }
+}

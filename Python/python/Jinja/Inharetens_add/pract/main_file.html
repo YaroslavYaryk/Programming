@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+        <title> {% block header %} {% endblock header %}</title>
+</head>
+
+<body>
+    {%- block content -%}
+        {%- block head_block -%} 
+        <h1>Here is a list of books</h1>
+        {%- endblock head_block -%} 
+
+        {%- block lister -%} 
+            <p>Books here</p>
+        {% endblock lister -%} 
+    {% endblock content %}        
+    
+</body>
+
+</html>

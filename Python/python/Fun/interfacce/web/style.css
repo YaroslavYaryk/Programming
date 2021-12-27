@@ -1,0 +1,26 @@
+.sheet{
+    background: cyan;
+    width: 500px;
+    border: 2px solid steelblue;
+    margin: 0px;
+    display: block;
+    outline: none;
+    height: 350px;
+}
+
+.header{
+    padding: 0px 0px 0px 170px;
+}
+
+.sheet form{
+    margin: 5px 5px 5px 40px;
+    padding: 0px 0px 10px 10px;
+}
+.sheet form label{
+    padding: 10px 10px 0px 0px;
+    text-shadow: 0.5px 0.5px 0px slateblue;
+}
+
+.sheet form input:hover{
+    border: 2px solid slateblue;
+}

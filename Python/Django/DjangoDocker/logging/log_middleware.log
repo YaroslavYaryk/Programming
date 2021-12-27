@@ -1,0 +1,179 @@
+2021-09-16 18:38:44.671 | ERROR    | core.middleware:process_exception:28 - object of type 'HttpResponseRedirect' has no len()
+2021-09-16 18:41:28.014 | ERROR    | core.middleware:process_exception:28 - object of type 'HttpResponseRedirect' has no len()
+2021-09-16 18:42:10.474 | ERROR    | core.middleware:process_exception:28 - object of type 'HttpResponseRedirect' has no len()
+2021-09-16 18:42:21.542 | ERROR    | core.middleware:process_exception:28 - object of type 'HttpResponseRedirect' has no len()
+2021-09-16 18:42:27.752 | ERROR    | core.middleware:process_exception:28 - object of type 'HttpResponseRedirect' has no len()
+2021-09-16 18:43:03.265 | ERROR    | core.middleware:process_exception:28 - Reverse for '' not found. '' is not a valid view function or pattern name.
+2021-09-16 19:03:55.012 | ERROR    | core.middleware:process_exception:28 - Could not parse the remainder: '{elem.get_absolute_url' from '{elem.get_absolute_url'
+2021-09-16 19:04:14.015 | ERROR    | core.middleware:process_exception:28 - Could not parse the remainder: '{elem.get_absolute_url' from '{elem.get_absolute_url'
+2021-09-17 06:30:18.706 | ERROR    | core.middleware:process_exception:28 - Reverse for 'post' with arguments '('d', 'a', 'f', 'a', 'd', 's', 's', 'a', 'd', 's', 'a', 'd', 'a', 's', 'd')' not found. 1 pattern(s) tried: ['post/(?P<slug_id>[-a-zA-Z0-9_]+)$']
+2021-09-17 06:31:17.684 | ERROR    | core.middleware:process_exception:28 - Reverse for 'post' with arguments '('d', 'a', 'f', 'a', 'd', 's', 's', 'a', 'd', 's', 'a', 'd', 'a', 's', 'd')' not found. 1 pattern(s) tried: ['post/(?P<slug_id>[-a-zA-Z0-9_]+)$']
+2021-09-20 06:41:48.329 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 06:42:36.550 | ERROR    | core.middleware:process_exception:28 - [Errno -3] Temporary failure in name resolution
+2021-09-20 06:51:21.373 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 06:51:33.868 | ERROR    | core.middleware:process_exception:28 - [Errno 2] No such file or directory: 'icon/order_folders/failed_list.txt'
+2021-09-20 06:52:03.519 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 06:52:10.055 | ERROR    | core.middleware:process_exception:28 - [Errno 2] No such file or directory: 'order_folders/failed_list.txt'
+2021-09-20 06:52:53.212 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 06:57:00.161 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 06:57:00.549 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 06:58:09.902 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 07:02:18.327 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 07:02:28.479 | ERROR    | core.middleware:process_exception:28 - 'NoneType' object has no attribute 'send'
+2021-09-20 07:03:23.761 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 07:03:32.550 | ERROR    | core.middleware:process_exception:28 - 'NoneType' object has no attribute 'send'
+2021-09-20 07:15:06.559 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 07:15:21.688 | ERROR    | core.middleware:process_exception:28 - 'NoneType' object has no attribute 'send'
+2021-09-20 07:15:36.387 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 07:18:45.047 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 07:19:30.240 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 18:06:26.746 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 18:07:41.010 | ERROR    | core.middleware:process_exception:28 - [Errno -3] Temporary failure in name resolution
+2021-09-20 18:09:12.544 | ERROR    | core.middleware:process_exception:28 - [Errno -3] Temporary failure in name resolution
+2021-09-20 18:10:23.990 | ERROR    | core.middleware:process_exception:28 - [Errno -3] Temporary failure in name resolution
+2021-09-20 18:17:28.433 | ERROR    | core.middleware:process_exception:28 - attach_alternative() missing 1 required positional argument: 'mimetype'
+2021-09-20 18:17:40.783 | ERROR    | core.middleware:process_exception:28 - not enough values to unpack (expected 2, got 1)
+2021-09-20 18:20:21.660 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 18:20:33.552 | ERROR    | core.middleware:process_exception:28 - [Errno 2] No such file or directory: 'tests.py'
+2021-09-20 18:21:00.028 | ERROR    | core.middleware:process_exception:28 - [Errno 2] No such file or directory: 'test.py'
+2021-09-20 18:44:21.244 | ERROR    | core.middleware:process_exception:28 - 'ModelFormMetaclass' object is not subscriptable
+2021-09-20 20:45:08.276 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 20:45:18.742 | ERROR    | core.middleware:process_exception:28 - mail_admins() got an unexpected keyword argument 'body'
+2021-09-20 20:46:20.707 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-20 20:52:03.634 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-21 16:52:51.409 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-21 16:52:56.596 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-21 18:02:07.946 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-21 18:03:06.997 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-25 14:05:44.159 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-25 14:07:59.487 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-25 14:09:58.907 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-25 14:10:43.979 | ERROR    | core.middleware:process_exception:28 - 'WSGIRequest' object has no attribute 'GT'
+2021-09-26 19:32:17.822 | ERROR    | core.middleware:process_exception:28 - user_log_fail() missing 1 required positional argument: 'user'
+2021-09-26 19:55:04.103 | ERROR    | core.middleware:process_exception:28 - get() returned more than one Woman -- it returned 2!
+2021-09-26 20:06:26.958 | ERROR    | core.middleware:process_exception:28 - “/home/yaroslav/Python/Django/menu/assets/menu/img/ico/orange.png” does not exist
+2021-09-26 20:06:29.249 | ERROR    | core.middleware:process_exception:28 - “/home/yaroslav/Python/Django/menu/assets/menu/img/ico/orange.png” does not exist
+2021-09-26 20:06:34.705 | ERROR    | core.middleware:process_exception:28 - “/home/yaroslav/Python/Django/menu/assets/menu/img/ico/orange.png” does not exist
+2021-09-26 20:07:10.910 | ERROR    | core.middleware:process_exception:28 - “/home/yaroslav/Python/Django/menu/assets/menu/img/ico/orange.png” does not exist
+2021-09-27 17:54:15.202 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 17:55:04.716 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 17:57:34.817 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 17:58:45.291 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:04:30.375 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:05:17.480 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:06:35.971 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:07:00.973 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:07:31.506 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:07:39.765 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:07:46.366 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:08:32.170 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:08:41.170 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:08:51.531 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:09:16.163 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:09:59.615 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:10:16.378 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:27:46.031 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:28:12.304 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:50:38.196 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:54:38.702 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:56:07.318 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:56:36.023 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:58:52.663 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:59:21.649 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 19:59:21.714 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:16:55.499 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 20:16:55.840 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:17:55.141 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 20:17:55.183 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:18:22.393 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 20:18:22.439 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:18:36.253 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 20:18:36.294 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:19:50.994 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 20:19:51.038 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:20:20.935 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 20:20:20.975 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:20:38.761 | ERROR    | core.middleware:process_exception:28 - Category matching query does not exist.
+2021-09-27 20:20:38.805 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:22:58.125 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-27 20:22:58.159 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:23:09.259 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-27 20:23:09.290 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:29:19.333 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-27 20:29:19.366 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:32:59.311 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-27 20:32:59.347 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:35:03.028 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-27 20:35:03.062 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:35:15.037 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-27 20:35:15.071 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:41:13.668 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-27 20:41:13.703 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:41:28.651 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-27 20:41:28.686 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:42:50.227 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-27 20:42:50.270 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:43:00.291 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-27 20:43:00.322 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:44:55.454 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-27 20:44:55.491 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:45:45.948 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-27 20:45:45.982 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-27 20:46:29.237 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-27 20:46:29.278 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 09:55:00.091 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 09:55:00.256 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:00:25.879 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:00:25.919 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:00:50.978 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:00:51.013 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:01:45.512 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:01:45.547 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:04:25.593 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:04:25.627 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:07:56.771 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:07:56.808 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:09:04.866 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:09:04.901 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:10:20.533 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:10:20.575 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:11:20.961 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:11:20.999 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:14:08.350 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:14:08.386 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:14:35.198 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:14:35.236 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:15:23.390 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:15:23.426 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:15:40.174 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:15:40.208 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:16:27.650 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:16:27.688 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:19:11.033 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:19:11.071 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:20:35.199 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:20:35.235 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:23:08.328 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:23:08.365 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:23:45.481 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:23:45.514 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:25:09.407 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:25:09.442 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:25:55.041 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:25:55.077 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:26:17.282 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:26:17.318 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:35:00.436 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:35:00.475 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:35:12.947 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:35:12.981 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:36:22.412 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:36:22.450 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:36:34.057 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:36:34.090 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 10:36:47.636 | ERROR    | core.middleware:process_exception:28 - The 'ico' attribute has no file associated with it.
+2021-09-28 10:36:47.675 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 20:44:17.941 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 20:44:26.729 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 20:44:31.600 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable
+2021-09-28 20:44:57.425 | ERROR    | core.middleware:process_exception:28 - 'AnonymousUser' object is not iterable

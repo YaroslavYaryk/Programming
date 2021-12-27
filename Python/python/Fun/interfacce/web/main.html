@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="pluginIcon.svg">
+</head>
+<body>
+    <div class="sheet">
+        <h1 class="header">Converter</h1>
+        <form oninput="result.value=(uan.value/27.8).toFixed(2)">
+            <label for="ua">enter price in Uan</label>
+            <input type="number" id="ua" name="uan" placeholder="convert to $usd">
+            <p>dollars <output name="result">0</output> $</p>
+        </form>
+        <form oninput="result.value=(uan.value/29.8).toFixed(2)">
+            <label for="ua">enter price in Uan</label>
+            <input type="number" id="ua" name="uan" placeholder="convert to euro">
+            <p>Euros  <output name="result">0</output> euro</p>
+        </form>
+        <form oninput="result.value=(uan.value*3.31).toFixed(2)">
+            <label for="ua">enter price in Uan</label>
+            <input type="number" id="ua" name="uan" placeholder="convert to rub">
+            <p>Rubles  <output name="result">0</output> rub</p>
+        </form>
+    </div>    
+</body>
+</html>

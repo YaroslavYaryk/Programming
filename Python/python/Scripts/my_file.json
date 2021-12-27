@@ -1,0 +1,30 @@
+import random
+
+
+def time_now(funk):
+    def whipper():
+        print("one")
+        result = funk()
+        print("two")
+        return result
+
+
+
+    return whipper
+
+
+@time_now
+def array1():
+    sum = 0
+    for i in range(10):
+        sum += random.randint(10, 20)
+    return sum
+
+
+@time_now
+def array2():
+    arr = list(random.randint(10, 20))
+    arr_new = random.shuffle(arr)
+    return  arr_new
+
+array1()

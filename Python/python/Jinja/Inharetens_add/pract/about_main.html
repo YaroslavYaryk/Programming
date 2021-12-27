@@ -1,0 +1,30 @@
+{% extends "main_file.html" %}
+
+{% block header %}List of books{% endblock header %}
+
+{% block content %} 
+    {% block head_block -%} {{ super() }} {%- endblock head_block -%}   
+    {% block lister %} 
+
+        {{ super() }}    
+
+        {%- macro list_of_books(books) -%}
+        <ul>
+            {% for b in books -%}
+                <li> {{b.book}} {{caller(b)}}
+                
+            {% endfor %}
+        </ul>
+        
+        {%- endmacro -%}
+        
+        {% call(user) list_of_books(users) %}
+            <ul>
+                <li> author - {{user.author}}
+                <li> shits - {{user.shits}}
+                <li> lang - {{user.lang}}
+            </ul>    
+        {%- endcall -%}
+
+    {% endblock lister %} 
+{% endblock content %}

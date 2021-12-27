@@ -1,0 +1,7 @@
+{% from "macro_type.html" import dialog_1 as dll  %}
+{% include "head.html" ignore missing %}
+        Hello world
+        <base href= "{{link}}" >
+        <title>{{title}}</title>
+        {{dll("Attention", "this is a test")}}
+{% include "tail.html" ignore missing %}

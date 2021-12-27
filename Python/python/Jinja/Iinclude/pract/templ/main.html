@@ -1,0 +1,22 @@
+{% from "macro_type.html" import dialog_1 as dll %}
+{% include "head.html" ignore missing  %}
+    {%- macro get_list(users) -%}
+    <ul>
+        {% for p in users -%}
+            <li> {{p.name}}  {{caller(p)}}
+        {%- endfor -%}        
+    </ul>
+    {% endmacro  -%}
+
+    {%-  call(user) get_list(users)  -%}
+        <ul>
+            <li> age {{user.age}}
+            <li> experience {{user.experience}}
+            <li> score {{user.score}}
+
+        </ul>
+    {%- endcall  %}    
+
+    {{dll("Warning", "This is a text")}}
+{%- include "tail.html" ignore missing  -%}
+

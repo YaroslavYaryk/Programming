@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.analysis.extraPaths": [
+        "./python/tree/myownsample/src",
+        "./newtree/ultrasplit/src"
+    ]
+}

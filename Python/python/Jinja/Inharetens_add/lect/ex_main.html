@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+    <title> {% block title %}{% endblock %} </title>
+
+</head>
+<body>
+{% block content %}
+    {% block list_content -%}
+    <ul>
+        {% for lis in lister -%}
+            <li>{% block inner scoped %} <p class="item">{{lis}}</p> {% endblock inner %}</li>
+        {% endfor %}
+    </ul>
+    {%- endblock list_content %}
+
+{% endblock %}
+
+</body>
+
+
+</html>
